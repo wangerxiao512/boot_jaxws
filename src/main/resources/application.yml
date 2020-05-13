@@ -1,0 +1,5 @@
+spring:
+  application: 
+    name: boot_jaxws
+server: 
+  port: 8001
